@@ -1,0 +1,32 @@
+[
+    {
+        "isim": "Nurullah",
+        "vize": 60.0,
+        "final": 70.0,
+        "ortalama": 66.0
+    },
+    {
+        "isim": "Hasan",
+        "vize": 90.0,
+        "final": 10.0,
+        "ortalama": 42.0
+    },
+    {
+        "isim": "Bilal",
+        "vize": 94.0,
+        "final": 7.0,
+        "ortalama": 41.800000000000004
+    },
+    {
+        "isim": "Buse",
+        "vize": 84.0,
+        "final": 20.0,
+        "ortalama": 45.6
+    },
+    {
+        "isim": "Oykum ",
+        "vize": 90.0,
+        "final": 10.0,
+        "ortalama": 42.0
+    }
+]
